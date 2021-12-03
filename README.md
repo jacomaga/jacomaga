@@ -18,5 +18,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=jacomaga&theme=tokyonight&show_icons=true"  alt="git-stats"/>
 </div>
 <div align="right">
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jacomaga&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/iuricode/)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacomaga&hide=html&layout=compact=true&theme=tokyonight"/>
 </div>
