@@ -1,22 +1,15 @@
-### Hi there 👋
+### About me
+<hr>
+<h4 align="center">Who is Jacó 🤔</h4>
+<br> <br> 
+<p alt="about me">I am a technology enthusiast and i work with it 😄 </p>
+<hr>
+<div>
+  <h4 align="center">Git Stats 🐈‍⬛</h4>
+<br> <br>  
+  <img src="https://github-readme-stats.vercel.app/api?username=jacomaga&theme=tokyonight&show_icons=true"  align="left" alt="git-stats"/>
 
-<!--
-**jacomaga/jacomaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacomaga&hide=html&layout=compact=true&theme=tokyonight" align="right"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...\
--->
-<div align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=jacomaga&theme=tokyonight&show_icons=true"  alt="git-stats"/>
-</div>
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacomaga&hide=html&layout=compact=true&theme=tokyonight"/>
 </div>
