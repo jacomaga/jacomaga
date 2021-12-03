@@ -20,6 +20,8 @@ I like to learn about software development, OPSEC, Pentest, kernels, operational
   <img align="left "alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
+[![Stack overflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10754944/jac%c3%b3-magalh%c3%a3es)](https://stackoverflow.com/users/10754944/jac%c3%b3-magalh%c3%a3es)
+
 
 <div alt="git stats">
   
