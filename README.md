@@ -5,7 +5,7 @@
   <br>
 I like to learn about software development, OPSEC, Pentest, kernels, operational system, almost everything about computers.
   <br>
- In 2021 i became a System Analysis and Development technologist.
+ In 2021 i became a System Analysis and Development technologist, I learned some things, but I still have a lot to learn.
 </p>
 
 
