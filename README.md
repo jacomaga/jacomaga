@@ -3,6 +3,7 @@
 <h4 align="center">Who is Jacó 🤔</h4>
 <br> <br> 
 <p alt="about me">I am a technology enthusiast and i work with it 😄 </p>
+<p alt="about me">I like to learn about software development, OPSEC, Pentest, kernels, operational system, almost everything about computers.</p>
 <hr>
 <div alt="social media" align="left">
   <h4 align="center">Social Media</h4>
