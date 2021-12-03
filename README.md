@@ -22,8 +22,6 @@ I like to learn about software development, OPSEC, Pentest, kernels, operational
 
   
 ##### What i'm reading
-
-  I'm currently reading these books:
   
   - [APIonRails6](https://leanpub.com/apionrails6/)
   - [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.amazon.com.br/dp/B09781V6F7)
