@@ -1,8 +1,12 @@
 ## About me
 ### Who is Jacó 🤔
 
-<p alt="about me">I am a technology enthusiast and i work with it 😄<br>
-I like to learn about software development, OPSEC, Pentest, kernels, operational system, almost everything about computers.</p>
+<p alt="about me">I am a technology enthusiast and i work with it 😄
+  <br>
+I like to learn about software development, OPSEC, Pentest, kernels, operational system, almost everything about computers.
+  <br>
+ In 2021 i became a System Analysis and Development technologist.
+</p>
 
 
 #### What you find here 🔎
@@ -12,6 +16,18 @@ I like to learn about software development, OPSEC, Pentest, kernels, operational
 
 
 <div alt="social media" align="left">
+ 
+##### Last I.T. books i read
+ - ["Ruby on Rails para iniciantes: O Guia Final do Iniciante para Aprender Rubi sobre Trilhos Passo a Passo".](https://www.amazon.com.br/Ruby-Rails-para-iniciantes-Iniciante-ebook)
+
+  
+##### What i'm reading
+
+  I'm currently reading these books:
+  
+  - [APIonRails6](https://leanpub.com/apionrails6/)
+  - [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.amazon.com.br/dp/B09781V6F7)
+  
   
 #### Social Media
   
