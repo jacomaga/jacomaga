@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![card](https://github-readme-stats.vercel.app/api?username=jacomaga&theme=tokyonight&show_icons=true)](https://github.com/iuricode/)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jacomaga&hide=html&layout=compact=true&theme=default)](https://github.com/iuricode/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jacomaga&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/iuricode/)
 
