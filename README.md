@@ -25,7 +25,7 @@ I like to learn about software development, OPSEC, Pentest, kernels, operational
   
 
   - [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.amazon.com.br/dp/B09781V6F7)
-  
+  - [The Pragmatic Programmer: your journey to mastery](https://www.amazon.com.br/dp/B07VRS84D1/)
   
 #### Social Media
   
