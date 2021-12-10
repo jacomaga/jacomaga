@@ -3,16 +3,16 @@
 
 <p alt="about me">I am a technology enthusiast and i currently work with Application support 😄
   <br>
-I like to learn about software development, OPSEC, Pentest, kernels, operational system, almost everything about computers.
+I like to study about software development, OPSEC, Pentest, kernels, operational system and almost everything about computers.
   <br>
- In 2021 i became a System Analysis and Development technologist, I learned some things, but I still have a lot to learn.
+ In 2021 I became a System Analysis and Development technologist, I've learned a few things, but I still have a lot to learn.
 </p>
 
 
 #### What you find here 🔎
 
 
-<p alt="what you find here">I'm currently studying about Ruby and Ruby on rails. I'm pretending to create some API with rails and use my ReactJS and React Native knowlege to work with the frontend. So you gonna find something about it. I also will post some automatization with a scripted language.  I'm kinda out of python, but i usually i write something with it.</p>
+<p alt="what you find here">I'm currently studying about Ruby and Ruby on rails. I want to create some API with rails and use my ReactJS and React Native knowlege to work with the frontend. So you gonna find something about it in the near future. I also will post some automatization with a scripted language.  I'm kinda out of python, but i usually i write something with it.</p>
 
 
 <div alt="social media" align="left">
