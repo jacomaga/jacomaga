@@ -12,7 +12,7 @@ I like to study about software development, OPSEC, Pentest, kernels, operational
 #### What you find here 🔎
 
 
-<p alt="what you find here">I'm currently studying about Ruby and Ruby on rails. I want to create some API with rails and use my ReactJS and React Native knowlege to work with the frontend. So you gonna find something about it in the near future. I also will post some automatization with a scripted language.  I'm kinda out of python, but i usually i write something with it.</p>
+<p alt="what you find here">I'm currently studying about Ruby and Ruby on rails. I want to create some API with rails and use my ReactJS and React Native knowlege to work with the frontend. So you gonna find something about it in the near future. I also will post some automatization with a scripted language.  I'm kinda out of python, but I usually write something with it.</p>
 
 
 <div alt="social media" align="left">
