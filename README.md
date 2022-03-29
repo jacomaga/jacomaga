@@ -16,12 +16,8 @@ I like to study about software development, OPSEC, Pentest, kernels, operational
 
 
 <div alt="social media" align="left">
- 
-##### Last I.T. books i read
- - ["Ruby on Rails para iniciantes: O Guia Final do Iniciante para Aprender Rubi sobre Trilhos Passo a Passo".](https://www.amazon.com.br/Ruby-Rails-para-iniciantes-Iniciante-ebook)
- - [APIonRails6](https://leanpub.com/apionrails6/)
-  
-##### What i'm reading
+   
+##### What I'm currently reading
   
 
   - [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.amazon.com.br/dp/B09781V6F7)
