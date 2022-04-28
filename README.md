@@ -3,7 +3,6 @@
 
 <p alt="about me">I am a technology enthusiast and I currently work with Application support 😄
   <br>
-I want to and I have desire to learn a little everything about tech. 
   <br>
 </p>
 
