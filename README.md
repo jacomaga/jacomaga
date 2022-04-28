@@ -1,11 +1,10 @@
 ## About me
 ### Who is Jacó 🤔
 
-<p alt="about me">I am a technology enthusiast and i currently work with Application support 😄
+<p alt="about me">I am a technology enthusiast and I currently work with Application support 😄
   <br>
-I like to study about software development, OPSEC, Pentest, kernels, operational system and almost everything about computers.
+I want to and I have desire to learn a little everything about tech. 
   <br>
- In 2021 I became a System Analysis and Development technologist, I've learned a few things, but I still have a lot to learn.
 </p>
 
 
