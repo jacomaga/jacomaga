@@ -16,13 +16,7 @@ I like to study about software development, OPSEC, Pentest, kernels, operational
 
 
 <div alt="social media" align="left">
-   
-##### What I'm currently reading
-  
-
-  - [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.amazon.com.br/dp/B09781V6F7)
-  - [The Pragmatic Programmer: your journey to mastery](https://www.amazon.com.br/dp/B07VRS84D1/)
-  
+     
 #### Social Media
   
 
