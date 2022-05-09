@@ -1,12 +1,3 @@
-## About me
-### Who is Jacó 🤔
-
-<p alt="about me">I am a technology enthusiast and I currently work with Application support 😄
-  <br>
-  <br>
-</p>
-
-
 <div alt="social media" style="display: flex; flex-direction: row;">
      
 #### Social Media
